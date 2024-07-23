@@ -1,0 +1,6 @@
+F:\022_SistemaVentaAspMVC-main\Utilidad\bin\Debug\Utilidad.dll
+F:\022_SistemaVentaAspMVC-main\Utilidad\bin\Debug\Utilidad.pdb
+F:\022_SistemaVentaAspMVC-main\Utilidad\obj\Debug\Utilidad.csproj.AssemblyReference.cache
+F:\022_SistemaVentaAspMVC-main\Utilidad\obj\Debug\Utilidad.csproj.CoreCompileInputs.cache
+F:\022_SistemaVentaAspMVC-main\Utilidad\obj\Debug\Utilidad.dll
+F:\022_SistemaVentaAspMVC-main\Utilidad\obj\Debug\Utilidad.pdb
